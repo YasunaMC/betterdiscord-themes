@@ -597,7 +597,7 @@ a:link {
 }
 .channel-textarea-inner {
     border: 2px solid #afafff!important;
-    background: rgba(255, 0, 0, 1) !important;
+    background: rgba(88, 61, 123, 0.6) !important;
 }
 .channel.channel-text.unread:not(.selected):not(.channel-muted):before {
     background: #afafff;
