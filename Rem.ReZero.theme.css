@@ -593,7 +593,7 @@ a:link {
 /* Channels */
 .guild-channels .channel-text .channel-name:before {
     content: '§';
-    color: rgba(241, 241, 241, 0.61)!important;
+    color: rgba(255, 0, 0, 1)!important;
 }
 .channel-textarea-inner {
     border: 2px solid #afafff!important;
