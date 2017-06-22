@@ -2,18 +2,18 @@
 
 {} /* Background */
 .app {
-    background-image: url("https://i.imgur.com/kz1EmSY.png");
+    background-image: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/kz1EmSY.png");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("https://i.imgur.com/kz1EmSY.png");
+    background: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/kz1EmSY.png");
     background-size: cover;
     background-position: center;
 }
 .bda-backdrop {
-    background: url("https://i.imgur.com/CsmeraH.jpg");
+    background: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/CsmeraH.jpg");
     background-size: cover;
 }
 .layers,
@@ -335,7 +335,7 @@ a:link {
 }
 .guilds-add {
     color: transparent !important;
-    background-image: url("http://i.imgur.com/y7Kjp6q.png") !important;
+    background-image: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/y7Kjp6q.png") !important;
     background-size: 45px 45px !important;
     background-repeat: no-repeat !important;
     background-position: 2px 2px !important;
@@ -416,7 +416,7 @@ a:link {
     border-left: none;
 }
 .account .btn-deafen:hover:after {
-    background-image: url(https://i.imgur.com/Crxj2nR.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/Crxj2nR.png);
 }
 .account .btn-deafen:after {
     background-image: url(https://a.pomf.cat/fivzom.png);
@@ -424,7 +424,7 @@ a:link {
     background-size: 75%;
 }
 .account .btn-deafen:hover:after {
-    background-image: url(https://i.imgur.com/Crxj2nR.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/Crxj2nR.png);
     opacity: 1;
 }
 .account .btn-deafen.disabled:after {
@@ -439,7 +439,7 @@ a:link {
     background-size: 80%;
 }
 .account .btn-settings:hover:after {
-    background-image: url(https://i.imgur.com/tmJnYHc.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/tmJnYHc.png);
 }
 .account .btn-mute:after {
     background-image: url(https://a.pomf.cat/qihfkm.png);
@@ -447,13 +447,13 @@ a:link {
     background-size: 80%;
 }
 .account .btn-mute:hover:after {
-    background-image: url(https://i.imgur.com/k9gSksn.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images.png);
 }
 .account .btn-mute.disabled:after {
     background-image: url(https://a.pomf.cat/ilbkid.png);
 }
 .account .btn-mute.disabled:hover:after {
-    background-image: url(https://i.imgur.com/iOsaRAQ.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/iOsaRAQ.png);
 }
 .account .status {
     border: 2px solid rgba(0, 0, 0, 1);
@@ -559,11 +559,11 @@ a:link {
     background-size: 80%;
 }
 #rtc-connection .btn-info:hover:after {
-    background-image: url(https://i.imgur.com/7PlilIx.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/7PlilIx.png);
     opacity: 1;
 }
 #rtc-connection .btn-disconnect:hover:after {
-    background-image: url(https://i.imgur.com/LAyMjfz.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/LAyMjfz.png);
     opacity: 1;
 }
 /* Public Button */
@@ -1234,12 +1234,12 @@ voice-connection-popout hr {
     background-color: #670101!important;
 }
 .create-guild-container .action.join .action-icon {
-    background: url("https://i.imgur.com/NTeGmsW.png") 50% no-repeat;
+    background: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/NTeGmsW.png") 50% no-repeat;
     height: 78px;
     background-size: 178.5px 78px;
 }
 .create-guild-container .action.create .action-icon {
-    background-image: url("https://i.imgur.com/QDY09EQ.png");
+    background-image: url("https://kingcatdaan.github.io/betterdiscord-themes/Images/QDY09EQ.png");
     height: 78px;
     background-size: 112px 78px;
     background-repeat: no-repeat;
@@ -2333,13 +2333,13 @@ search-bar-clear {
     border: 1px solid #afafff;
 }
 .member-roles .member-role .member-role-remove {
-    background: url(http://i.imgur.com/aACperk.png) 50% no-repeat;
+    background: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/aACperk.png) 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 8px;
 }
 .member-roles .member-role .member-role-add {
-    background: url(https://i.imgur.com/eDL5C9M.png) 50% no-repeat;
+    background: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/eDL5C9M.png) 50% no-repeat;
     width: 8px;
     height: 12px;
     background-size: 10px;
