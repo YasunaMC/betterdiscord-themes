@@ -483,7 +483,7 @@ a:link {
     border-top: 1px solid #afafff;
 }
 .links:after {
-    content: "CreamCheese";
+    content: "TheChocolateAxe";
     color: #C4C8FF;
     margin-left: 6px;
     font-weight: bold;
@@ -1442,8 +1442,8 @@ voice-connection-popout hr {
 .channel-members .member .member-username {
     font-size: 14px;
 }
-.member-username-inner[data-reactid*="102180837625200640"]:after {
-    content: "CreamCheese";
+.member-username-inner[data-reactid*="145095062722838529"]:after {
+    content: "TheChocolateAxe";
     color: #E81C4F;
     margin-left: 0px;
     font-weight: 900;
