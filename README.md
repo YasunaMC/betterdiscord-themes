@@ -1,2 +1,3 @@
 # betterdiscord themes
-Please note this is not the theme you should download download the one under the download tree
+These are some of the themes i made or edited
+And these themes will auto update
