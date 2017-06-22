@@ -296,7 +296,6 @@ a:link {
 }
 
 /* Guilds */
-.guilds-wrapper .guilds .friends-icon{width:50px;height:50px;background-image:url(https://kingcatdaan.github.io/betterdiscord-themes/Images/y7Kjp6q.svg)
 .guilds-wrapper {
     box-shadow: inset -10px 0px 5px -6px rgb(65, 53, 101);
     background: rgba(50, 42, 88, 0.64)!important;
@@ -1410,7 +1409,7 @@ voice-connection-popout hr {
 .guilds-wrapper .guilds .friends-icon {
     width: 50px;
     height: 50px;
-    background-image: url(https://a.pomf.cat/svhxxi.png);
+    background-image: url(https://kingcatdaan.github.io/betterdiscord-themes/Images/y7Kjp6q.png);
     background-size: 62px 62px;
     background-position: 50%;
     background-repeat: no-repeat;
