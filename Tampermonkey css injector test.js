@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Discord Theme Changer
-// @namespace      AdsBypasser
-// @description    Bypass Ads
+// @namespace      Discord Theme Changer
+// @description    Discord Theme Changer
 // @copyright      2017+ Kingcatdaan
 // @version        1.0
 // @license        BSD
