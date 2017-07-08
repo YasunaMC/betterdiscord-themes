@@ -637,7 +637,7 @@ a:link {
     background: rgba(50, 42, 88, 0.64)!important;
 }
 .channels-wrap .channel-notices .channel-notice.quickswitcher-notice {
-    background: transparent !important;
+    background: transparent ;
 }
 .guild-channels .channel-text.selected:before {
     border-color: #afafff;
