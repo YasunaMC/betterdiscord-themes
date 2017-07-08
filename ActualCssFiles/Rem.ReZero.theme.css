@@ -636,7 +636,7 @@ a:link {
 .channels-wrap {
     background: rgba(50, 42, 88, 0.64)!important;
 }
-.channels-wrap .channel-notices {
+.channels-wrap .channel-notices .channel-notice.quickswitcher-notice {
     background: transparent !important;
 }
 .guild-channels .channel-text.selected:before {
