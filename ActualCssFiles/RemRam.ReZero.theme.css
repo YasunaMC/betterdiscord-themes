@@ -2057,6 +2057,9 @@ voice-connection-popout hr {
     background-color: rgba(0, 0, 0, 0.54);
     border-color: rgba(0, 0, 0, 0.35);
 }
+.theme-dark .ui-video {
+    background: transparent !important;
+}
 .chat>.title-wrap>.topic .aka {
     background: #afafff;
 }
